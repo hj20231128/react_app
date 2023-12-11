@@ -1,0 +1,14 @@
+.API_3_tester{
+    margin: 10px auto;
+    padding: 10px;
+    background-color: rgb(255, 213, 254);
+    max-width: 600px;
+    border-radius: 20px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 5px;
+}
